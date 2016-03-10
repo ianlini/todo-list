@@ -1,0 +1,8 @@
+.complete-item a {
+    text-decoration: line-through;
+    color: #CCCCCC;
+}
+
+.tabs-title a:hover {
+    background: #EEEEEE;
+}
